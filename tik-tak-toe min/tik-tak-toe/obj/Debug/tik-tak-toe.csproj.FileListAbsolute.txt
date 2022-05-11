@@ -1,0 +1,10 @@
+T:\courses\tik-tak-toe min\tik-tak-toe\bin\Debug\tik-tak-toe.exe.config
+T:\courses\tik-tak-toe min\tik-tak-toe\bin\Debug\tik-tak-toe.exe
+T:\courses\tik-tak-toe min\tik-tak-toe\bin\Debug\tik-tak-toe.pdb
+T:\courses\tik-tak-toe min\tik-tak-toe\obj\Debug\tik-tak-toe.csproj.AssemblyReference.cache
+T:\courses\tik-tak-toe min\tik-tak-toe\obj\Debug\tik_tak_toe.Form1.resources
+T:\courses\tik-tak-toe min\tik-tak-toe\obj\Debug\tik_tak_toe.Properties.Resources.resources
+T:\courses\tik-tak-toe min\tik-tak-toe\obj\Debug\tik-tak-toe.csproj.GenerateResource.cache
+T:\courses\tik-tak-toe min\tik-tak-toe\obj\Debug\tik-tak-toe.csproj.CoreCompileInputs.cache
+T:\courses\tik-tak-toe min\tik-tak-toe\obj\Debug\tik-tak-toe.exe
+T:\courses\tik-tak-toe min\tik-tak-toe\obj\Debug\tik-tak-toe.pdb
